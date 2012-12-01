@@ -1,0 +1,17 @@
+* using log directory 'F:/Projects/RDev/Hadley/plyr/plyr.Rcheck'
+* using R version 2.15.2 (2012-10-26)
+* using platform: x86_64-w64-mingw32 (64-bit)
+* using session charset: ISO8859-1
+* checking for file 'plyr/DESCRIPTION' ... OK
+* checking extension type ... Package
+* this is package 'plyr' version '1.7.1.99.2'
+* checking package namespace information ... OK
+* checking package dependencies ... ERROR
+Package suggested but not available: 'doMC'
+
+The suggested packages are required for a complete check.
+Checking can be attempted without them by setting the environment
+variable _R_CHECK_FORCE_SUGGESTS_ to a false value.
+
+See the information on DESCRIPTION files in the chapter 'Creating R
+packages' of the 'Writing R Extensions' manual.
