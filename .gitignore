@@ -3,6 +3,3 @@ src-*
 .DS_Store
 plyr_*.tar.gz
 .Rproj.user
-00_pkg_src/
-man-roxygen/
-
